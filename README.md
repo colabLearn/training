@@ -1,0 +1,2 @@
+# training
+Training Static Web
